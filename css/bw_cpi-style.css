@@ -1,0 +1,12 @@
+#bw_cpi-form-container {
+	background: #24443F;
+	color: #fff;
+	margin: 2% 2% 2% 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px solid #fff;
+	text-align: center;
+}
+#bw_cpi-form-container h1 {
+	color: #fff;
+}
