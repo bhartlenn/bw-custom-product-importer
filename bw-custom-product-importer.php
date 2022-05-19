@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Green Grass Custom Product Importer
- * Description: Custom Product Importer for Woocommerce simple and variable products
+ * Description: A custom product importer for Woocommerce simple and variable products
  * Version: 1.1.5
  * Author: Ben HartLenn
  * Author URI: https://bountifulweb.com
